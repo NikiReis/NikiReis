@@ -25,7 +25,7 @@
 </div>
      
     
-<h3>Programing Languages / Databases that i'm working / going to work with in the future</h3>
+<h3>Programing Languages / Databases that i'm working with/ going to work with in the future</h3>
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
