@@ -10,14 +10,12 @@
   <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
   
-<div>
+<div align="center">
   <div>
     <a href="https://github.com/NikiReis/Python--Exercises">
-    <img aling="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
-    </div>
-  <div>
+    <img aling="left" height="180em" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
     <a href="https://github.com/NikiReis/Pratic_Projects_UCB">
-    <img aling="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
+    <img aling="center" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
     </div>
 </div>
   
