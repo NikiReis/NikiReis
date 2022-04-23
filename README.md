@@ -4,34 +4,30 @@
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
 
 <h3> Stats</h3>
-<div align="center">
+<div align="left">
   <div align="left">
     
   ![Profile views](https://gpvc.arturio.dev/nikireis)
     
   </div>
   <a href="https://github.com/NikiReis">
-  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="180em" align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="right" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikiReis&theme=blue-green"/> 
 </div>
   
-<div align="center">
+<div align="left">
   <div>
     <a href="https://github.com/NikiReis/Python--Exercises">
-    <img aling="left" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
+    <img aling="left" height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
     <a href="https://github.com/NikiReis/Pratic_Projects_UCB">
-    <img aling="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
+    <img aling="left" height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
     </div>
 </div>
-    
- <div align="center">  
-   
- [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=NikiReis&theme=blue-green)](https://github.com/NikiReis)
-   
-</div> 
+     
     
 <h3>Programing Languages / Databases that i'm working / going to work with in the future</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
   <img align="center" alt="Scala" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" >
