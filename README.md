@@ -4,19 +4,18 @@
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
 
 <h3> Stats</h3>
-<div align="left">
+<div align="center">
   <div align="left">
     
   ![Profile views](https://gpvc.arturio.dev/nikireis)
     
   </div>
   <a href="https://github.com/NikiReis">
-  <img height="180em" align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" align="right" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikiReis&theme=blue-green"/> 
+  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div align="left">
+<div align="center">
   <div>
     <a href="https://github.com/NikiReis/Python--Exercises">
     <img aling="left" height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
