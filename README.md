@@ -20,7 +20,7 @@
     <a href="https://github.com/NikiReis/Python--Exercises">
     <img aling="left" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
     <a href="https://github.com/NikiReis/Pratic_Projects_UCB">
-    <img aling="center" height="180em" width="54%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
+    <img aling="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
     </div>
 </div>
     
