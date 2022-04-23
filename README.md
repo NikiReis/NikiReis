@@ -1,10 +1,15 @@
-# 👋 Hi, I’m Linek Reis
+# 👋 Hi, I’m @NikiReis
 <div> 👀 I’m interested in Data Science, Machine Learning and Mobile Development </div>
 <div> 🌱 I’m currently learning Object Oriented Programming in Python </div>
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
 
 <h3> Stats</h3>
 <div align="center">
+  <div align="left">
+    
+  ![Profile views](https://gpvc.arturio.dev/nikireis)
+    
+  </div>
   <a href="https://github.com/NikiReis">
   <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/> 
@@ -18,7 +23,13 @@
     <img aling="center" height="180em" width="54%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
     </div>
 </div>
-  
+    
+ <div align="center">  
+   
+ [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=NikiReis&theme=blue-green)](https://github.com/NikiReis)
+   
+</div> 
+    
 <h3>Programing Languages / Databases that i'm working / going to work with in the future</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
@@ -36,3 +47,13 @@
   <a href = "mailto:linekreis@hotmail.com.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/linekreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<h3> Projects 2022 Check List</h3>
+ :heavy_check_mark: Start Studying Object Oriented Programming in Python
+  
+    
+- [ ] Start Studying Data Structure in Python
+- [ ] Start Studying Django and Web Development using Python    
+- [ ] Deploy 2 Webs projects using Pyhton 
+- [ ] Start Studying Data Science and their Python's Librarys 
+- [ ] Get some initial contact with Mobile Development for personal future projects
