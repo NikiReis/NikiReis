@@ -8,7 +8,7 @@
   <a href="https://github.com/NikiReis">
   <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/> 
-  <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
+  <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/><a href="https://github.com/NikiReis/Python--Exercises">
 </div>
  
 <h3>Programing Languages / Databases that i'm working / going to work with in the future</h3>
