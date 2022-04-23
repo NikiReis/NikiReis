@@ -8,9 +8,18 @@
   <a href="https://github.com/NikiReis">
   <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/> 
-  <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/><a href="https://github.com/NikiReis/Python--Exercises">
 </div>
- 
+  
+<div align="center">
+    <a href="https://github.com/NikiReis/Python--Exercises">
+    <img aling="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
+</div>
+  
+<div align="center">
+    <a href="https://github.com/NikiReis/Python--Exercises">
+    <img aling="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
+</div>
+  
 <h3>Programing Languages / Databases that i'm working / going to work with in the future</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
