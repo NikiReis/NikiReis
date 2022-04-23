@@ -10,7 +10,7 @@
   <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
  
-<h3>Programing Languages / Databases that i'm working / going to work with in the future</h3>
+# Programing Languages / Databases that i'm working / going to work with in the future
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
@@ -19,7 +19,6 @@
   <img align="center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" >
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" >
   <img align="center" alt="Oracle" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" >
-
 </div>
   
 <h3>Social Medias</h3>
