@@ -2,7 +2,8 @@
 <div> 👀 I’m interested in Data Science, Machine Learning and Mobile Development </div>
 <div> 🌱 I’m currently learning Object Oriented Programming in Python </div>
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
-
+<div> 🎓 I'm graduating the 3rd period of B.Sc , Computer Science at Catholic University of Brasília (Brazil) 
+  
 <h3> Stats</h3>
 <div align="center">
   <div align="left">
@@ -11,22 +12,23 @@
     
   </div>
   <a href="https://github.com/NikiReis">
-  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
   
-<div align="center">
+<h3> Some of my most used / importants repositorys </h3>  
+<div align="left">
   <div>
     <a href="https://github.com/NikiReis/Python--Exercises">
-    <img aling="left" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises"/>
+    <img aling="left" height="170em" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises&theme=noctis_minimus"/>
     <a href="https://github.com/NikiReis/Pratic_Projects_UCB">
-    <img aling="left" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb"/>
+    <img aling="left" height="170em" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb&theme=noctis_minimus"/>
     </div>
 </div>
      
     
 <h3>Programing Languages / Databases that i'm working with/ going to work with in the future</h3>
-<div style="display: inline_block" align="left"><br>
+<div align="left">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
   <img align="center" alt="Scala" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" >
