@@ -12,8 +12,8 @@
     
   </div>
   <a href="https://github.com/NikiReis">
-  <img height="180em" align="center" width="41%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=noctis_minimus"/>
+  <img height="180em" align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=noctis_minimus"/>
     
   ![Snake animation](https://github.com/nikireis/nikireis/blob/output/github-contribution-grid-snake.svg)
 
