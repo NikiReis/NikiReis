@@ -49,9 +49,8 @@
   <a href="https://open.spotify.com/user/linekerreis12"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"taget="_blank"></a>
 </div>
 
-<h3> Projects 2022 Check List</h3>
+<h3> 2022 Personal Projects Check List </h3>
  :heavy_check_mark: Start Studying Object Oriented Programming in Python
-  
     
 - [ ] Start Studying Data Structure in Python
 - [ ] Start Studying Django and Web Development using Python    
