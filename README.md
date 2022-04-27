@@ -35,7 +35,6 @@
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
   <img align="center" alt="Scala" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" >
-  <img align="center" alt="Kotlin" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >
   <img align="center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" >
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" >
   <img align="center" alt="Oracle" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" >
@@ -54,6 +53,4 @@
     
 - [ ] Start Studying Data Structure in Python
 - [ ] Start Studying Django and Web Development using Python    
-- [ ] Deploy 2 Webs projects using Pyhton 
-- [ ] Start Studying Data Science and their Python's Librarys 
-- [ ] Get some initial contact with Mobile Development for personal future projects
+- [ ] Deploy 2 Web projects using Pyhton 
