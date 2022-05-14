@@ -48,8 +48,7 @@
 </div>
 
 <h3> 2022 Personal Projects Check List </h3>
- :heavy_check_mark: Start Studying Object Oriented Programming in Python
-    
-- [ ] Start Studying Datas Structures
+ :heavy_check_mark: Start Studying Object Oriented Programming in Python 
+ :heavy_check_mark: Start Studying Datas Structures
 - [ ] Start Studying Django and Web Development using Python    
 - [ ] Deploy 2 Web projects using Pyhton 
