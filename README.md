@@ -51,4 +51,3 @@
 <div>:heavy_check_mark: Start Studying Object Oriented Programming in Python</div> 
 <div>:heavy_check_mark: Start Studying Datas Structures</div>
 <div>[  ] Start Studying Django and Web Development using Python</div>   
-<div>[  ] Deploy 2 Web projects using Pyhton</div>
