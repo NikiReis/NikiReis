@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @NikiReis
-<div> 👀 I’m interested in Data Science, Machine Learning and Mobile Development </div>
+<div> 👀 I’m interested in Data Science, Machine Learning </div>
 <div> 🌱 I’m currently learning Object Oriented Programming in Python </div>
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
 <div> 🎓 I'm graduating the 3rd period of B.Sc , Computer Science at Catholic University of Brasília (Brazil) 
