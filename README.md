@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @NikiReis
-<div> 👀 I’m interested in Data Science, Machine Learning </div>
-<div> 🌱 I’m currently learning Data Structures using C </div>
+<div> 👀 I’m interested in Data Science and Machine Learning </div>
+<div> 🌱 I’m currently learning Data Structures in C  Programming Language</div>
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
-<div> 🎓 I'm graduating the 4th period of B.Sc , Computer Science at Catholic University of Brasília (Brazil) 
+<div> 🎓 I'm graduating the 4th period of BSc Computer Science at Universidade Católica de Brasília (Brazil) 
   
 <h3> Stats</h3>
 <div align="center">
@@ -18,19 +18,7 @@
   ![Snake animation](https://github.com/nikireis/nikireis/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-  
-<h3> Some of my most used / importants repositorys </h3>  
-<div align="left">
-  <div>
-    <a href="https://github.com/NikiReis/Python--Exercises">
-    <img aling="left" height="170em" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=python--exercises&theme=noctis_minimus"/>
-    <a href="https://github.com/NikiReis/Pratic_Projects_UCB">
-    <img aling="left" height="170em" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikireis&repo=pratic_projects_ucb&theme=noctis_minimus"/>
-    </div>
-</div>
      
-    
-<h3>Programing Languages / Databases that i'm working with/ going to work with in the future</h3>
 <div align="left">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
@@ -49,4 +37,4 @@
 
 <h3> 2022 Personal Projects Check List </h3>
 <div>:heavy_check_mark: Start Studying Object Oriented Programming in Python</div> 
-<div>:heavy_check_mark: Start Studying Datas Structures</div>
+<div>:heavy_check_mark: Start Studying Data Structures</div>
