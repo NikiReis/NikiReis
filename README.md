@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @NikiReis
 <div> 👀 I’m interested in Data Science and Machine Learning </div>
 <div> 🌱 I’m currently learning Data Structures in C  Programming Language</div>
-<div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
+<div> 💞️ I’m looking for internship oportunity in Data Science or Database field </div>
 <div> 🎓 I'm graduating the 4th period of BSc Computer Science at Universidade Católica de Brasília (Brazil) 
   
 <h3> Stats</h3>
