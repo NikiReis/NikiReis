@@ -9,7 +9,10 @@
   <div align="left">
     
   ![Profile views](https://gpvc.arturio.dev/nikireis)
-    
+  
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikireis&theme=outrun&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikiReis&layout=compact&theme=outrun)
   
   ![Snake animation](https://github.com/nikireis/nikireis/blob/output/github-contribution-grid-snake.svg)
 
