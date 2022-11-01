@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @NikiReis
 <div> 👀 I’m interested in Data Science and Data Engineering </div>
 <div> 🌱 I’m currently learning Python and SQL </div>
-<div> 🎓 I'm graduating the 4th period of B.Sc , Computer Science at Catholic University of Brasília (Brazil) 
+<div> 🎓 I'm graduating the 4th period of B.Sc CS at Universidade Católica de Brasília (Brazil) 
 
 ![Profile views](https://gpvc.arturio.dev/nikireis)
   
