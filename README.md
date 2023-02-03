@@ -25,5 +25,3 @@
 
 ## 2023 Personal Projects Check List 
 <div>:heavy_check_mark: Build a Data Engineering Related Project</div> 
-
-![Snake animation](https://github.com/nikireis/nikireis/blob/output/github-contribution-grid-snake.svg)
