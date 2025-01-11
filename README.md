@@ -2,7 +2,7 @@
 #### 👀 I’m interested in Data Science, Computer Modeling and Computational Fluid Dynamics
 #### 🌱 I’m currently learning Python for Data Science and their applications in Computational Fluid Dynamics (CFD), 
 ####  Aerodynamics Principles and Computational Modeling
-#### 🎓 I am currently studying the 7th period of BSc in Computer Science at the Catholic University of Brasília (Brazil)
+#### 🎓 I'm graduated in BSc in Computer Science at the Catholic University of Brasília (Brazil)
 ##
 <div align="center">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
