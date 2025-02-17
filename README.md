@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @NikiReis
 #### 👀 I’m interested in Data Science, Computer Modeling and Computational Fluid Dynamics
 #### 🌱 I’m currently learning Python for Data Science and their applications in Computational Fluid Dynamics (CFD), 
-#### 🏎️ Aerodynamics Principles and Computational Modeling
 #### 🎓 I'm graduated in BSc in Computer Science at the Catholic University of Brasília (Brazil)
 ##
 <div align="center">
