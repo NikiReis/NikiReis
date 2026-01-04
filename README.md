@@ -9,16 +9,6 @@ While my current role is strongly focused on **ETL and data engineering**, my **
 
 ---
 
-## 🔧 What I Do
-
-- Develop and maintain **ETL pipelines** using Python  
-- Perform **data migration** from legacy systems to modern platforms  
-- Apply **data validation, transformation, and consistency checks**  
-- Work with **structured data** using SQL and relational databases  
-- Collaborate in **agile environments** to deliver reliable data solutions
-- 
----
-
 ## 🧠 Technical Skills
 
 **Programming & Data**
@@ -31,17 +21,6 @@ While my current role is strongly focused on **ETL and data engineering**, my **
 - Data migration strategies
 - Data validation and integrity
 - Batch data processing
----
-
-## 📈 Data Science Focus (Long-Term)
-
-Alongside my work in data engineering, I am continuously building a stronger foundation in **Data Science**, focusing on:
-- Exploratory data analysis (EDA)
-- Data manipulation and feature preparation
-- Applying statistical thinking to real-world datasets
-- Preparing data pipelines that enable scalable analytics and modeling
-
-My goal is to bridge **reliable data engineering** with **impactful data science solutions**.
 
 ---
 
