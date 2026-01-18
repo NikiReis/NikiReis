@@ -12,9 +12,9 @@ While my current role is strongly focused on **ETL / Data Migration**, my **long
 ## 🧠 Technical Skills
 
 **Programming & Data**
-- Python (Pandas, Matplotlib, Seaborn, Numpy, Data Processing, ETL Scripting, Web Scraping)
-- SQL (Data Analysis, Manipulation and migration)
-- MySQL, PostgreSQL and Oracle
+- Python (Pandas, Matplotlib, Seaborn, Numpy, Data Processing, ETL Scripting, Web Scraping, Data Extraction)
+- SQL (Data Analysis, Manipulation, Migration, Extraction)
+- RDBMS: MySQL, PostgreSQL and Oracle
 
 **Data Migration**
 - Data pipelines
