@@ -1,12 +1,19 @@
-# 👋 Hi, I’m Linek Reis
+# Hi, I'm Linek Reis
 
-**ETL Developer / Data Science** with professional experience in **data migration** and **data pipeline development** using **Python and Pandas**.  
-Currently working at **Afya – iClinic**, a leading **health tech** company specialized in clinic and medical practice management.
+Data professional focused on Healthcare ETL, Data Migration, Data Quality, and Data Engineering.
 
-I design, develop, and maintain **ETL scripts and scalable data pipelines with Jupyter Notebook** to support **data migration**, ensuring **data integrity, consistency, and reliability** during client data onboarding.
+I currently work as a Junior Software Engineer - Data/ETL at Afya iClinic, where I build Python/Pandas conversion workflows for healthcare data migration, mapping heterogeneous legacy systems into structured target models.
 
-While my current role is strongly focused on **ETL / Data Migration**, my **long-term goal** is to progressively move towards **Data Science**, applying advanced analytics and data-driven insights on top of robust and well-structured data foundations.
+My current focus is evolving manual ETL workflows into more automated, traceable, and cloud-ready data pipelines.
 
+## Main interests
+
+- Healthcare Data Engineering
+- ETL and Data Migration
+- Data Quality and Validation
+- Python, Pandas, SQL and PostgreSQL
+- Cloud-based data processing
+- Applied Data Science in healthcare
 ---
 
 ## 🧠 Technical Skills
